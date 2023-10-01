@@ -1,7 +1,7 @@
 # UmicoOnion
 This is documentry repo for PASHA Hackathon for Umico and our idea was UmicoOnion. 
 
-([figma design link](https://www.figma.com/file/j8u8hDVBGPicxz1Fb28SR1/Untitled?type=design&node-id=0%3A1&mode=design&t=eSuJkEUP7jOS9OhA-1)[Figma design link]
+[Figma design file](https://www.figma.com/file/j8u8hDVBGPicxz1Fb28SR1/Untitled?type=design&node-id=0%3A1&mode=design&t=eSuJkEUP7jOS9OhA-1)
 
 
 
